@@ -1,7 +1,7 @@
 const fetch = require("isomorphic-unfetch");
 
 const MORALIS_API_KEY = "";
-const CONTRACT_ADDRESS = "0x2ca0507d72e3d30Badea3D3b558103D192026251";
+const CONTRACT_ADDRESS = "";
 const CHAIN = "avalanche";
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
